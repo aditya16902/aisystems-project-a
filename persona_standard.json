@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "query": "What are the typical durations for the seasonal sales at Acmera?",
+    "expected_answer": "Seasonal sales typically run for 5-7 days.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "easy",
+    "category": "promotions",
+    "persona": "standard"
+  },
+  {
+    "id": 2,
+    "query": "If I buy something during a flash sale, how long do I have to return it?",
+    "expected_answer": "You have 15 calendar days from delivery to return an item purchased during a flash sale.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "medium",
+    "category": "returns",
+    "persona": "standard"
+  },
+  {
+    "id": 3,
+    "query": "Can I combine promotional discounts with coupon codes during a sale?",
+    "expected_answer": "No, promotional discounts cannot be combined with coupon codes or other offers unless explicitly stated.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "hard",
+    "category": "payments",
+    "persona": "standard"
+  },
+  {
+    "id": 4,
+    "query": "What is the restocking fee for returning items bought during promotional events?",
+    "expected_answer": "There is a 10% restocking fee for all returns of promotional items.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "easy",
+    "category": "returns",
+    "persona": "standard"
+  },
+  {
+    "id": 5,
+    "query": "How long do premium members have to request price adjustments after purchasing during a promotional event?",
+    "expected_answer": "Premium members can request price adjustments within 14 days after their purchase during a promotional event.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "medium",
+    "category": "membership",
+    "persona": "standard"
+  }
+]

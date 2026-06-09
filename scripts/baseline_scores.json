@@ -1,0 +1,221 @@
+{
+  "saved_at": "2026-05-15T10:08:11.572245",
+  "summary": {
+    "hit_rate": 0.982,
+    "mrr": 0.795,
+    "avg_faithfulness": 0.985,
+    "avg_correctness": 0.865
+  },
+  "category_breakdown": {
+    "Account Security": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "Coverage": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "Data and Privacy": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.5,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "Extended Warranty": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 0.8,
+      "correctness": 0.8
+    },
+    "Membership": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 0.8,
+      "correctness": 0.8
+    },
+    "Payments": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "Refunds": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.333,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "Return Policy": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.333,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "Return and Refund Privileges": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.25,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "Returns": {
+      "n": 3,
+      "hit_rate": 1.0,
+      "mrr": 0.75,
+      "faithfulness": 1.0,
+      "correctness": 0.867
+    },
+    "Shipping Benefits": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 0.8,
+      "correctness": 0.8
+    },
+    "Shipping Issues": {
+      "n": 3,
+      "hit_rate": 1.0,
+      "mrr": 0.667,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "Wallet Expiry": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.5,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "Wallet Refunds": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "correctness": 0.2
+    },
+    "Wallet Withdrawal": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "Warranty Process": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.333,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "account": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 0.9
+    },
+    "membership": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 0.75,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "order tracking": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.333,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "orders": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "payments": {
+      "n": 4,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 0.9
+    },
+    "products": {
+      "n": 5,
+      "hit_rate": 1.0,
+      "mrr": 0.9,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "promotions": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 0.9
+    },
+    "refunds": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 0.333,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "returns": {
+      "n": 8,
+      "hit_rate": 1.0,
+      "mrr": 0.781,
+      "faithfulness": 0.975,
+      "correctness": 0.8
+    },
+    "rewards": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "shipping": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 0.8
+    },
+    "shipping methods": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "sustainability": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    },
+    "warranty": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "mrr": 0.667,
+      "faithfulness": 1.0,
+      "correctness": 1.0
+    }
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "query": "What is the time frame for returning items bought during special offers?",
+    "expected_answer": "15 calendar days from delivery",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "medium",
+    "category": "Return Policy",
+    "persona": "mismatch"
+  },
+  {
+    "id": 2,
+    "query": "How long do flash discounts typically last?",
+    "expected_answer": "6-24 hours",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "easy",
+    "category": "Promotional Events",
+    "persona": "mismatch"
+  },
+  {
+    "id": 3,
+    "query": "Can I combine promotional deals with discount vouchers?",
+    "expected_answer": "No, unless specifically mentioned",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "hard",
+    "category": "Pricing Policy",
+    "persona": "mismatch"
+  },
+  {
+    "id": 4,
+    "query": "What happens if I order more than the allowed number of promotional items?",
+    "expected_answer": "Orders may be canceled partially or fully with a full refund.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "medium",
+    "category": "Inventory Management",
+    "persona": "mismatch"
+  },
+  {
+    "id": 5,
+    "query": "What are the premium levels that can participate in exclusive sales?",
+    "expected_answer": "Silver and Gold members",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "easy",
+    "category": "Membership Benefits",
+    "persona": "mismatch"
+  }
+]

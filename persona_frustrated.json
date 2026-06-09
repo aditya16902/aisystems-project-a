@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "query": "Why do I have to pay a restocking fee? That's ridiculous!",
+    "expected_answer": "There's a 10% restocking fee for all returns of promotional items because of the modified return terms during sales. Premium members are exempt from this fee.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "medium",
+    "category": "Returns",
+    "persona": "frustrated"
+  },
+  {
+    "id": 2,
+    "query": "I bought something on sale, but now it's even cheaper! Why can't I get that price?",
+    "expected_answer": "Price matching isn't available during promotional events. However, standard customers can request a one-time price adjustment if an item goes on sale within 7 days of their purchase.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "medium",
+    "category": "Pricing",
+    "persona": "frustrated"
+  },
+  {
+    "id": 3,
+    "query": "Why didn\u2019t I get notified about the flash sale? It\u2019s not fair!",
+    "expected_answer": "Flash sales are announced 24 hours in advance via app notifications and email. Make sure your notification settings are enabled to receive these alerts.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "easy",
+    "category": "Promotions",
+    "persona": "frustrated"
+  },
+  {
+    "id": 4,
+    "query": "How come I can't return this stuff? It's only been a week!",
+    "expected_answer": "Items bought during promotional events have a return window of only 15 calendar days from delivery, unlike the standard 30 days. But Premium members have a longer return window.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "medium",
+    "category": "Returns",
+    "persona": "frustrated"
+  },
+  {
+    "id": 5,
+    "query": "I ordered too many things during the sale, and now I see they're out of stock. What gives?",
+    "expected_answer": "Promotional items are available while supplies last, and if an item goes out of stock, it\u2019s removed from the sale. Orders may be partially or fully canceled if they exceed quantity limits.",
+    "expected_source": "07_promotional_events.md",
+    "difficulty": "hard",
+    "category": "Inventory",
+    "persona": "frustrated"
+  }
+]
